@@ -10,6 +10,25 @@ Ah, e...
 console.log("Haaaaaaaaaappy Hacking! ;)");
 ```
 
+## 🗺️ | Sumário
+
+_Se os links não funcionarem, é por causa dos emojis ;)_
+
+- [Simulado de Entrevista Técnica](#simulado-de-entrevista-técnica)
+  - [🗺️ | Sumário](#️--sumário)
+  - [ℹ | Informações](#ℹ--informações)
+    - [⏱️ Duração da entrevista](#️-duração-da-entrevista)
+    - [🧑‍💻 Local de aplicação](#-local-de-aplicação)
+    - [🛠️ Ferramentas necessárias](#️-ferramentas-necessárias)
+    - [📋 Ementa](#-ementa)
+  - [⚠️ | Regras](#️--regras)
+    - [❌ Não é permitido](#-não-é-permitido)
+    - [✅ É permitido](#-é-permitido)
+  - [💠 | Entrevista Técnica (Instruções)](#--entrevista-técnica-instruções)
+  - [💡 | Recomendações](#--recomendações)
+  - [❓ | Dúvidas frequentes](#--dúvidas-frequentes)
+  - [💯 | Correção](#--correção)
+
 ## ℹ | Informações
 
 ### ⏱️ Duração da entrevista
@@ -55,7 +74,7 @@ console.log("Haaaaaaaaaappy Hacking! ;)");
 
 Agora, respire, foque e **bora começar a sua entrevista ;)**
 
-## 💠 | Entrevista Técnica
+## 💠 | Entrevista Técnica (Instruções)
 
 [INSTRUÇÕES DO WB SÃO COLOCADAS AQUI]
 
@@ -64,6 +83,7 @@ Agora, respire, foque e **bora começar a sua entrevista ;)**
 - 🧘 Faça esse simulado em um **lugar calmo, sem distrações e interrupções**.
 - ➗ **Divida metade da tela para o script.js e a outra para o README.md**, assim fica mais fácil de você ir desenvolvendo e relendo o que está sendo pedido.
 - 📝 **Comente o que você precisa fazer**, como se fosse uma lista.
+
   - E/ou você pode marcar no próprio README.md o que você já desenvolveu (editar ele)
   - Ex.:
 
@@ -104,7 +124,6 @@ Agora, respire, foque e **bora começar a sua entrevista ;)**
   - E sempre procure na documentação o que você tiver dúvida.
 
 - 🗣️ **Fale em voz alta o que você está fazendo**, assim você ajuda o seu aplicador a entender a sua lógica e se ajuda a perceber inconsistências lógicas.
-
 - 🔎 No final, se sobrar tempo, **compare cada linha do seu código com o que foi pedido** no README.md para validar se está tudo de acordo. Vai na minha, isso me salvou uma vez ;).
 
 ## ❓ | Dúvidas frequentes
