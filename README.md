@@ -37,6 +37,7 @@ console.log("Haaaaaaaaaappy Hacking! ;)");
 > - **Usar mais de um monitor** (tela do computador).
 > - Fazer o simulado **sem uma câmera/webcam ou internet estável**
 > - **Criar arquivos adicional**, pois esse projeto já possui tudo o que é necessário para desenvolver a solução esperada \*.
+>   - O seu código precisará ser desenvolvido [nesse arquivo](./script.js).
 > - **Receber ajuda de outra pessoa** durante a aplicação da simulado via Slack, Discord ou outro meio de comunicação.
 > - **Pesquisar em locais que não sejam/levem para as documentações oficiais**, como anotações pessoais, canvas, etc.
 > - **Pesquisar por uma solução pronta** para o exercício.
