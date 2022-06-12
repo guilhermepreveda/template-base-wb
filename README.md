@@ -81,8 +81,8 @@ Agora, respire, foque e **bora começar a sua entrevista ;)**
 ## 💡 | Recomendações
 
 - 🧘 Faça esse simulado em um **lugar calmo, sem distrações e interrupções**.
-- ➗ **Divida metade da tela para o script.js e a outra para o README.md**, assim fica mais fácil de você ir desenvolvendo e relendo o que está sendo pedido.
-- 📝 **Comente o que você precisa fazer**, como se fosse uma lista.
+- ➗ **Divida metade da tela para o script.js e a outra para o README.md**, assim fica mais fácil de desenvolver enquanto acompanha o que está sendo pedido.
+- 📝 **Comente o que você precisa fazer**, como se fosse uma lista  (se for te ajudar, claro!).
 
   - E/ou você pode marcar no próprio README.md o que você já desenvolveu (editar ele)
   - Ex.:
@@ -94,7 +94,7 @@ Agora, respire, foque e **bora começar a sua entrevista ;)**
     // |- ETC, ETC, ETC...
     ```
 
-- 🗺️ E **comente o que cada método faz**, bem como a lógica do seu interior (se você precisar, claro!)
+- 🗺️ E **comente o que cada método faz**, bem como a lógica do seu interior (se for te ajudar, claro!).
 
   - Assim, você não se perderá na lógica do seu código com tanta facilidade, e caso se perca, só ler os comentários para tentar voltar nos trilhos.
   - Ex.:
@@ -118,7 +118,7 @@ Agora, respire, foque e **bora começar a sua entrevista ;)**
         [...]
     ```
 
-- 🔙 Se você **se perder durante o desenvolvimento**, volte e leia o seu código de cabo a rabo, tendo pegar de volta o flow do código.
+- 🔙 Se você **se perder durante o desenvolvimento**, volte e leia o seu código de cabo a rabo, tentando pegar de volta o flow (fluxo) do código.
 - 🧮 Se você **não souber fazer algo**, tente escrever/quebrar o que foi pedido em partes e depois associe as devidas lógicas e métodos.
 
   - E sempre procure na documentação o que você tiver dúvida.
